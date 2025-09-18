@@ -60,3 +60,7 @@ Screenshots can be saved from Streamlit into `reports/screenshots/` as needed.
 - CUPED with multiple covariates (OLS/GLM) and heteroscedasticity-robust SEs.
 - Deeper retention diagnostics (survival curves by cohort, seasonality).
 
+## Samples
+- Download sample_data.zip from https://drive.google.com/file/d/12mrSYvZIZxrv5PmhDNqWw3EJdCTvhgy0/view?usp=sharing
+- Unzip into the repo so files land under data/ with those exact names
+- Or run: python -m src.simulate --outdir data --users 100000 to generate locally
