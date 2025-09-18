@@ -1,0 +1,17 @@
+pycache/
+.pytest_cache/
+.venv/
+venv/
+env/
+.env
+dist/
+build/
+*.egg-info/
+mlruns/
+.ipynb_checkpoints/
+.DS_Store
+.sqlite
+.log
+reports/screenshots/
+data/.parquet
+data/.csv
